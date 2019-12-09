@@ -1,3 +1,4 @@
+
 # Arrow Function Shorthand
 
 ## Introduction
