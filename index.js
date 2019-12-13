@@ -1,3 +1,3 @@
 function divide(num){
-  return num/200;
+  return num/100;
 }
