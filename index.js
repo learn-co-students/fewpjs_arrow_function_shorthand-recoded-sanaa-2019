@@ -1,3 +1,3 @@
-function divide(){
+function divide(num){
   return num/200;
 }
