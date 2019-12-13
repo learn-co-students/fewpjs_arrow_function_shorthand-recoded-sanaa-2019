@@ -4,6 +4,6 @@ function divide(){
 function square(x){
   return x*x
 }
-function add(){
-  
+function add(x,y){
+  return x+y
 }
